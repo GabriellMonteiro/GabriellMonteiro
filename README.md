@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gabriel Monteiro</h1>
 <h3 align="center">Systems analysis and development student</h3>
 
+
+![GabriellMonteiro's Stats](https://github-readme-stats.vercel.app/api?username=GabriellMonteiro&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+
+![GabriellMonteiro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellMonteiro&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 - 📫 How to reach me **gabrielbrava@outlook.com.br**
 
 <h3 align="left">Connect with me:</h3>
