@@ -1,17 +1,100 @@
-<h1 align="center">Hi 👋, I'm Gabriel Monteiro</h1>
-<h3 align="center">Systems analysis and development student</h3>
+# Hi, I'm Gabriel Monteiro 👋
 
+### Software Engineer | C# & .NET | Backend Development | Scalable Systems
 
-![GabriellMonteiro's Stats](https://github-readme-stats.vercel.app/api?username=GabriellMonteiro&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+I'm a software developer focused on building **reliable, maintainable, and scalable solutions**.
 
-![GabriellMonteiro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellMonteiro&theme=dracula&show_icons=true&hide_border=false&layout=compact)
-- 📫 How to reach me **gabrielbrava@outlook.com.br**
+My main interests are **software engineering, backend development, system architecture, APIs, distributed systems, and cloud applications**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gabriel-monteiro-44556a145/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-monteiro-44556a145/" height="30" width="40" /></a>
-<a href="https://discord.gg/M0N7E1R0#8246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="M0N7E1R0#8246" height="30" width="40" /></a>
-</p>
+I also have experience with **Data Science and Artificial Intelligence**, which I use as an additional tool when solving problems that can benefit from machine learning or data-driven approaches.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 What I work with
+
+* **C# / .NET / ASP.NET**
+* **Java / Spring**
+* REST APIs and backend services
+* Microservices
+* Software architecture
+* SQL and relational databases
+* Azure and cloud services
+* Docker
+* Git and CI/CD
+* Python
+* Machine Learning & Data Science
+
+---
+
+## 🧠 Engineering mindset
+
+I enjoy working beyond just implementing features.
+
+I'm interested in understanding how systems are designed and how they can evolve while remaining:
+
+* **Scalable**
+* **Maintainable**
+* **Testable**
+* **Observable**
+* **Resilient**
+* **Easy to evolve**
+
+I like exploring architectural decisions, API design, integrations, automation, performance, and ways to reduce complexity in software projects.
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+`C#` `.NET` `ASP.NET` `Java` `Spring` `Python` `FastAPI`
+
+### Frontend
+
+`React` `JavaScript` `HTML` `CSS`
+
+### Infrastructure & Engineering
+
+`Docker` `Azure` `Git` `GitHub Actions` `CI/CD` `REST APIs` `Microservices`
+
+### Data & AI
+
+`Pandas` `Scikit-learn` `MLflow` `ONNX` `Machine Learning`
+
+---
+
+## 📌 Projects
+
+My repositories include projects involving:
+
+### ⚙️ Software Engineering
+
+Backend applications, APIs, integrations and experiments focused on building maintainable software and exploring different architectural approaches.
+
+### ☁️ Backend & Cloud
+
+Projects involving REST APIs, service-oriented architectures, containerization, deployment and cloud environments.
+
+### 🤖 Applied AI
+
+Machine Learning and Computer Vision projects where AI is treated as a **component of a software solution**, rather than the entire product.
+
+### 🔬 Engineering Experiments
+
+Repositories where I explore technologies, architecture patterns, infrastructure and software engineering concepts.
+
+---
+
+## 🎯 Current focus
+
+I'm currently deepening my knowledge in:
+
+**Software Architecture · C#/.NET · Distributed Systems · Cloud · System Design · Backend Engineering**
+
+while continuing to explore how **AI can be integrated into real-world software systems**.
+
+---
+
+## 📫 Connect with me
+
+[gabrielbrava@outlook.com.br](mailto:gabrielbrava@outlook.com.br)
